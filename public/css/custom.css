@@ -99,8 +99,8 @@ header
     font-size: 73px;
 }
 .circle {
-    width: 175px;
-    height: 175px;
+    width: 150px;
+    height: 150px;
     line-height: 50px;
     display: inline-block;
     -webkit-border-radius: 100%;
